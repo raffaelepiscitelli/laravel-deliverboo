@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+.card.my_card{
+    margin: 0.5rem;
+    // width: calc((100% / 4) - 4rem);
+}
+// @media screen and (max-width: 992px) {
+// button.my_btn_dish{
+//     width: 0.5rem;
+// }
+// }
